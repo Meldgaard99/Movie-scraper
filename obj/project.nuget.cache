@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sjUi4oupabuostRifqWBY1bgqO0hANvoXkJLFY/Jl8yxvHN5DbddBN6MnlGmoodwFOvE+eKUkilNue/CROP2RA==",
+  "success": true,
+  "projectFilePath": "/Users/rasmusmeldgaardjensen/Projects/Web-scraper/Web-scraper/Web-scraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/rasmusmeldgaardjensen/.nuget/packages/htmlagilitypack/1.11.46/htmlagilitypack.1.11.46.nupkg.sha512",
+    "/Users/rasmusmeldgaardjensen/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/rasmusmeldgaardjensen/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
